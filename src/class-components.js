@@ -10,6 +10,6 @@ export default class Button extends Component {
         this.showAlert(Hello)
     }
     render(){
-        return <button onClick={this.onClickButtonOK}>OK</button>
+        return <button onClick={onClickButtonOK}>OK</button>
     }
 }
