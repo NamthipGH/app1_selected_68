@@ -1,9 +1,9 @@
 
 import React from 'react'
-import {Table} from './table'
+import RefsArray from './refs-array'
 
 
 
 export default function App() {
-  return <Table/>
+  return <RefsArray/>
 }
